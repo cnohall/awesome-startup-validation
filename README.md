@@ -18,6 +18,7 @@
 - [TestYourIdea](https://testyouridea.com) — 50+ criteria scan across PH, Crunchbase, Reddit. Per-report pricing.
 
 ## Market Research
+- [GetAppNiche](https://getappniche.com/) — iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [SparkToro](https://sparktoro.com) — Audience research: where your customers hang out online.
 - [Similarweb](https://similarweb.com) — Competitor traffic & market sizing.
 - [Wynter](https://wynter.com) — B2B messaging research with real buyers.
