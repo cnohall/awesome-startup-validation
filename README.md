@@ -12,6 +12,7 @@
 ---
 
 ## AI Validators
+- [EarlyLore](https://earlylore.com) — Validate product ideas against real software products: competitors, demand, pricing, acquisition channels, and entry angles. Freemium.
 - [IdeaRoast](https://idearoast.dev) — Brutal AI roast of your startup idea using live market data. Pay-per-use.
 - [IdeaProof](https://ideaproof.com) — Market analysis, TAM/SAM/SOM, competitor maps. Credit-based.
 - [ValidatorAI](https://validator.ai) — Startup score, roadmap, AI mentorship. Freemium.
