@@ -20,6 +20,7 @@
 ## Market Research
 - [SparkToro](https://sparktoro.com) — Audience research: where your customers hang out online.
 - [Similarweb](https://similarweb.com) — Competitor traffic & market sizing.
+- [Vaneform](https://vaneform.com) — Free website traffic estimates, trends, and traffic-source mix.
 - [Wynter](https://wynter.com) — B2B messaging research with real buyers.
 
 ## Trend Discovery
